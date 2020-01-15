@@ -9,8 +9,8 @@ int main(){
 
     cout << a*a+b*b<<endl;
     cout<< a*a-b*b<<endl;
-    cout <<a*a*b*b<<endl;
-    cout<<a*a/b*b<<endl;
+    cout <<(a*a)*(b*b)<<endl;
+    cout<<(a*a)/(b*b)<<endl;
     return 0;
 }
 
